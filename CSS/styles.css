@@ -1,0 +1,30 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
+/*  styles.css
+    Project 3
+*/
+
+body {
+  	font-family: Calibri, Arial, sans-serif;
+}
+
+body {
+    background-color: #e0ebe9;
+}
+
+/*images copyright to digmagonline_com*/
+header, footer {
+        background-color: #1d3932;
+}
+
+.jumbotron{
+    /*image copy from digmagonline.com*/
+    background-image: url("../images/vegetarianbakery.jpg");
+    height: auto;
+    max-width: 100%;
+}
